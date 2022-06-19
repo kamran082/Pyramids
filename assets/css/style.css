@@ -1,7 +1,10 @@
 body {
     font-family: roboto, sans-serif;
+    background-color: rgb(95, 95, 219);
+    margin: 0;
+    padding: 0;
 }
-
+/*
 #home {
   
     background-color: rgb(95, 95, 219);
@@ -10,7 +13,7 @@ body {
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-}
+} */
 
         /*HOME*/
 
@@ -131,24 +134,13 @@ img:hover {
         } 
         }
 
-@media (max-width:500px) {
-    #home {
-        background-position: center;
-        background-size: cover;
-    }
-}
 @media (max-width:972px){
-    #box {
-        width: 100%;
-        height: auto;
-    }
     #para {
         width: 100%;
         height: auto;
     }
-}
-@media (max-width:420px) {
-    #photos img {
-        margin-left: 5px;
+    #box {
+        width: 100%;
+        height: auto;
     }
 }
