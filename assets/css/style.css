@@ -56,9 +56,7 @@ body {
 
         /*HISTORY*/
 
-#history {
-    background-color:rgb(95, 95, 219);
-}     
+    
 #para {
     text-align: justify;
     color: white;
@@ -78,10 +76,7 @@ body {
 }
 
         /*GALLERY*/
-
-#gallery {
-    background-color:  rgb(95, 95, 219);
-}   
+  
 #photos img {
     width: 33%;
     height: 350px;
@@ -99,6 +94,7 @@ img:hover {
 #socialmedia {
     font-size: xx-large;
     text-align: center;
+   
 }
 #socialmedia i {
     font-size: 100%;
@@ -114,13 +110,13 @@ img:hover {
 
 @media (max-width:805px)  {
     #photos img {
-        width: 49%;
+        width: 50%;  
     }
     }
 
 @media (max-width:500px)  {
         #photos img {
-            width: 99%;
+            width: 100%;
         } 
         }
 
