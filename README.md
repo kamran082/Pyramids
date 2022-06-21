@@ -1,6 +1,5 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
 # Pyramids
+
 Pyramids is a website that gives you a basic information about the great pyramids of giza egypt. Its a historical place to visit. And get a wow factor how humans wete able to did this more thank 4600 years ago. website may inspire you to visit pyramids, and you can see with your own eyes.
 
 ## Features
@@ -64,14 +63,4 @@ Text.
 
 website text was search throught the google search engine.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-------
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
------
+THANK YOU.
