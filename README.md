@@ -18,15 +18,19 @@ Each page has a interesting heading under the pyramids name.
 
 History page also tells you about pyramids history and gallery page got some good pictuers.
 
+![CI logo](assets/images/body.jpg)
+
 - Social Media
 
 website also got link to social media.
+
+![CI logo](assets/images/footer.jpg)
 
 ## Testing
 
 I tested the website working in chrome, Edge, firefox. I  confirmed that this website is responsive, and function all standard screen sizes using devtools.
 
-## Optimizations
+## Optimizations & Testing
 
 HTML.
 
@@ -39,6 +43,10 @@ No error were found when passing through the offical validator.
 Accessibility.
 
 I confirm that color and fonts chosen are easy to read and accessible by running it through in devtools.
+
+![CI logo](assets/images/homeaccesbility.jpg)
+![CI logo](assets/images/historyaccesbility.jpg)
+![CI logo](assets/images/galleryaccesbility.jpg)
 
 ## Unfix Bugs
 No unfix bugs.
