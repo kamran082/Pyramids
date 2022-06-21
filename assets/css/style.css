@@ -111,7 +111,7 @@ img:hover {
 
         /*MEDIA QUERIES*/
 
-@media (max-width:805px)  {
+@media (max-width:869px)  {
     #photos img {
         width: 49%;  
     }
