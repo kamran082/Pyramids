@@ -12,6 +12,8 @@ My website got three pages (Home, History, Gallery).
 
 Each page has a interesting heading under the pyramids name.
 
+![CI logo](assets/images/header.jpg)
+
 - Body
 
 History page also tells you about pyramids history and gallery page got some good pictuers.
@@ -24,23 +26,34 @@ website also got link to social media.
 
 I tested the website working in chrome, Edge, firefox. I  confirmed that this website is responsive, and function all standard screen sizes using devtools.
 
-## 0ptimizations
+## Optimizations
 
 HTML.
+
 No error were returned when passing through the offical W3C validator.
+
 CSS.
+
 No error were found when passing through the offical validator.
+
 Accessibility.
+
 I confirm that color and fonts chosen are easy to read and accessible by running it through in devtools.
 
 ## Unfix Bugs
 No unfix bugs.
 
+## Deployment
+
+[Website Link](https://kamran082.github.io/Pyramids/index.html)
+
 ## credits
 Media.
+
 The images in the website was taken from Pexels.
 
 Text. 
+
 website text was search throught the google search engine.
 
 1. 
