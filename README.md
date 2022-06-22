@@ -43,9 +43,17 @@ Accessibility.
 
 I confirm that color and fonts chosen are easy to read and accessible by running it through in devtools.
 
-![CI logo](assets/images/homeaccesbility.jpg)
-![CI logo](assets/images/historyaccesbility.jpg)
-![CI logo](assets/images/galleryaccesbility.jpg)
+Home
+
+![CI logo](assets/images/homeaccesbility.jpg) 
+
+History
+
+![CI logo](assets/images/historyaccesbility.jpg) 
+
+Gallery
+
+![CI logo](assets/images/galleryaccesbility.jpg) 
 
 ## Unfix Bugs
 video autoplay loop not working on chrome, and edge browser. but its working on firefox, and safari.
