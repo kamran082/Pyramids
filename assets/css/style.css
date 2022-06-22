@@ -5,12 +5,7 @@ body {
     padding: 0;
 }
 
-        /*HOME*/
-
-  /*#videoo  {
-    width: 600px;
-    
-  }   */  
+        /*HOME*/ 
 
  a {
     text-decoration: none;
@@ -113,7 +108,7 @@ img:hover {
 
 @media (max-width:869px)  {
     #photos img {
-        width: 49%;  
+        width: 50%;  
     }
     }
 
@@ -121,6 +116,9 @@ img:hover {
         #photos img {
             width: 100%;
         } 
+        .line {
+            text-align: justify;
+        }
         }
 
 @media (max-width:990px){
