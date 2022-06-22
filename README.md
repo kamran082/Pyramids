@@ -15,7 +15,7 @@ Each page has a interesting heading under the website name.
 
 - Body
 
-Home page got a nice video, History page also tells you about pyramids history and gallery page got some good pictuers.
+Home page got a nice video, History page also tells you about pyramids history, and gallery page got some good pictures.
 
 ![CI logo](assets/images/body.jpg)
 
